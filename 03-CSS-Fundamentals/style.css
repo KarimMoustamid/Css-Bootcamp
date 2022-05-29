@@ -103,6 +103,29 @@ li:nth-child(even) {
   /* color: red; */
 }
 
-article p:last-child {
+/* ! Misconception this will not work */
+article p:first-child {
   color: red;
+}
+
+/* ! styling links */
+
+a:link {
+  color: #1098ad;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1098ad;
+}
+
+a:hover {
+  color: #f25022;
+  font-weight: bold;
+  text-decoration: underline #f25022;
+}
+
+a:active {
+  background-color: #000;
+  font-style: italic;
 }
