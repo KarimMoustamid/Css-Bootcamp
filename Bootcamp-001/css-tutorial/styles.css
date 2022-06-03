@@ -1,20 +1,31 @@
 /* ! Element Selector */
-h1 {
-  color: green;
-}
+/* h1 { */
+/* color: green; */
+/* } */
 
-h2 {
-  color: purple;
-}
+/* h2 { */
+/* color: purple; */
+/* } */
 
-p {
-  color: grey;
-}
+/* p { */
+/* color: grey; */
+/* } */
 
 /* ! Grouping Selector */
-
+/* 
 h1,
 h2,
 p {
   color: red;
+} */
+
+/* ! ID Selector */
+
+#header-title {
+  color: green;
+}
+
+#footer-title {
+  color: orange;
+  background: #000;
 }
