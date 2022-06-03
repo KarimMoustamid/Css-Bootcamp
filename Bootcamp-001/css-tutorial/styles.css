@@ -1,14 +1,12 @@
+/* ! Element Selector */
 h1 {
   color: green;
 }
 
 h2 {
-  color: blue;
+  color: purple;
 }
 
-/* ! Css rule */
-/* ! Selector */
-/* ! declaration Block */
-/* ! Property */
-/* ! Value */
-/* !  */
+p {
+  color: grey;
+}
