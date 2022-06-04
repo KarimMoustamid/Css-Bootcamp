@@ -39,3 +39,7 @@ p {
 .red {
   color: red;
 }
+
+.uppercase {
+  text-transform: uppercase;
+}
