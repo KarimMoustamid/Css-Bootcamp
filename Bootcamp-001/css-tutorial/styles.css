@@ -40,6 +40,25 @@ p {
   color: red;
 }
 
-.uppercase {
+/* ! div and Span Elements */
+/* . div - used to group multiple elements */
+/* . span - used to group inline content */
+
+.red {
+  color: red;
+  background: black;
+}
+
+.green {
+  color: green;
+  background: #333;
+}
+
+span {
   text-transform: uppercase;
+}
+
+.text {
+  background: white;
+  color: blue;
 }
