@@ -1,20 +1,25 @@
-/* # RGB */
+/* # RGBA */
 
 body {
-  background: rgb(100, 34, 210);
+  background: rgba(122, 19, 195, 0.88);
 }
 
 #first {
-  color: rgb(0, 255, 0);
-  background-color: black;
+  color: rgba(0, 255, 0, 1);
+  background: rgba(0, 0, 0, 1);
 }
 
 #secound {
-  color: rgb(255, 255, 255);
-  background: black;
+  color: rgba(0, 255, 0, 0.75);
+  background: rgba(0, 0, 0, 0.75);
 }
 
 #three {
-  color: rgb(255, 0, 255);
-  background: black;
+  color: rgba(0, 255, 0, 0.25);
+  background: rgba(0, 0, 0, 0.25);
 }
+
+#four {
+  /* color: rgba(0, 255, 0, 0); */
+  color: rgba(0, 255, 0, 0.15);
+  background: rgba(0, 0, 0, 0.15);
