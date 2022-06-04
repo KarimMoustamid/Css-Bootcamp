@@ -21,11 +21,21 @@ p {
 
 /* ! ID Selector */
 
-#header-title {
+/* #header-title { */
+/* color: green; */
+/* } */
+
+/* #footer-title { */
+/* color: orange; */
+/* background: #000; */
+/* } */
+
+/* ! Class Selector */
+
+.green {
   color: green;
 }
 
-#footer-title {
-  color: orange;
-  background: #000;
+.red {
+  color: red;
 }
