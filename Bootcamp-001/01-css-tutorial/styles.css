@@ -1,15 +1,20 @@
-/* ! Color Properties */
-/* ! Color Background-Color , Background */
+/* # RGB */
 
-/* # Color Names > 140 */
+body {
+  background: rgb(100, 34, 210);
+}
+
 #first {
-  color: white;
+  color: rgb(0, 255, 0);
   background-color: black;
 }
 
 #secound {
-  color: orangered;
-  background: yellow;
+  color: rgb(255, 255, 255);
+  background: black;
 }
 
-/* # */
+#three {
+  color: rgb(255, 0, 255);
+  background: black;
+}
