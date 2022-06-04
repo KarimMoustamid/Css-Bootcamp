@@ -67,19 +67,59 @@ p {
 /* # the child element inherit styles from the parent element 
    # anless the child element has his own styles */
 
-body {
+/* body { */
+/* color: orangered; */
+/* font-family: monospace; */
+/* line-height: 1.5; */
+/* font-size: 20px; */
+/* } */
+
+/* .special { */
+/* color: green; */
+/* } */
+
+/* h2 { */
+/* color: blue; */
+/* } */
+
+/* div { */
+/* color: grey; */
+/* border: 1px solid black; */
+/* } */
+
+/* ! Last Rule and Specificity "Universal Selector" */
+/* # Universal Selector  has the least specificity  */
+
+/* * { */
+/* color: purple; */
+/* } */
+
+/* .special { */
+/* color: blue; */
+/* } */
+
+/* p { */
+/* color: orangered; */
+/* } */
+
+/* /* more code here  ... */
+
+/* we are overiding our styles : */
+
+/* p { */
+/* color: green; */
+/* } */
+
+/* .header { */
+/* color: blue; */
+/* } */
+
+/* #header { */
+/* color: orangered; */
+/* } */
+
+/* ! Combining Selectors - Descendent Selector */
+
+.container p {
   color: orangered;
-}
-
-.special {
-  color: green;
-}
-
-h2 {
-  color: blue;
-}
-
-div {
-  color: grey;
-  border: 1px solid black;
 }
