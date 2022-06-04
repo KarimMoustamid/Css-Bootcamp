@@ -1,1 +1,18 @@
+/* ! select icon class and add red color and font-size (font-size:40px) */
 
+.icon {
+  color: orangered;
+  font-size: 40px;
+}
+
+/* ! select heading id and add blue color */
+
+#title {
+  color: blue;
+}
+
+/* ! select all paragraphs inside container and color grey */
+
+.container p {
+  color: grey;
+}
