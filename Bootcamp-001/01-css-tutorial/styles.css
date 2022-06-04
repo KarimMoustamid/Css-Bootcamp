@@ -1,6 +1,7 @@
 /* ! Color Properties */
 /* ! Color Background-Color , Background */
 
+/* # Color Names > 140 */
 #first {
   color: white;
   background-color: black;
@@ -10,3 +11,5 @@
   color: orangered;
   background: yellow;
 }
+
+/* # */
