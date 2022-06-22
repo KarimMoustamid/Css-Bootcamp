@@ -1,11 +1,19 @@
-.outer {
-  width: 200px;
-  height: 200px;
-  background: blue;
+/* 
+! em : relative depending on the parent element 
+! 1em : 16px default browser style
+! 1em : base value (16px) * number (1) = 16px
+! 1em : base value (16px) * number (2) = 32px
+! 1em : base value (16px) * number (3) = 20px
+*/
+
+.absolute {
+  font-size: 32px;
 }
 
-.inner {
-  width: 50%;
-  height: 50%;
-  background: red;
+.relative {
+  font-size: 2em;
+}
+
+div {
+  font-size: 10px;
 }
