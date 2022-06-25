@@ -1,14 +1,20 @@
+* {
+    margin : 0;
+}
+
+
 h1 , p {
     color: white;
 }
 
 h1 {
     background: #d6336c;
-    padding: 40px 20px;
+    padding: 20px;
+    margin: 20px;
 }
 
 p {
     background : #5f3dc4; 
     padding: 20px 30px;
-    padding : 5px 20px 50px 40px;
+    margin : 0px 20px;
 }
