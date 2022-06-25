@@ -1,16 +1,21 @@
 /* 
-! rem : Relative , depend on root
-! 1rem : base value (16px) * number (1) 
+! Calc() : Perform Math Operations , Mix and Match Values 
 */
 
-div {
-  font-size: 10px;
+* {
+  margin: 0;
 }
 
-.absolute {
-  font-size: 32px;
+.nav {
+  background : #1098ad;
+  height : 100px;
+  color : White;
+  font-size : 3rem;
 }
 
-.relative {
-  font-size: 2rem;
+.banner {
+  background : #5f3dc4;
+  height : Calc(100vh - 100px);
 }
+
+
