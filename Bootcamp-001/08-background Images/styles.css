@@ -1,44 +1,76 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/** {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+
+/*div {*/
+/*    min-height: 100vh;*/
+/*    height: 300px;*/
+/*    color: #fff;*/
+/*    border-top: 5px solid orangered;*/
+/*    font-size: 2rem;*/
+/*    text-transform: uppercase;*/
+
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.big-img {*/
+/*    background: url("./big.jpeg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+/*    background-attachment: fixed;*/
+/*}*/
+
+
+/*.small-img {*/
+/*    background: url("./images/folder-img.jpeg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+/*    background-attachment: scroll;*/
+/*    background-attachment: fixed;*/
+/*}*/
+
+/*.folder-img {*/
+/*    background: url("./big.jpeg");*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+/*    background-attachment: fixed;*/
+/*}*/
+
 
 div {
-    min-height: 100vh;
-    height: 300px;
-    color: #fff;
-    border-top: 5px solid orangered;
-    font-size: 2rem;
-    text-transform: uppercase;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
 }
 
-.big-img {
-    background: url("./big.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
+.one {
+    background: linear-gradient(#d6336c, #eb984e);
+}
+
+.two {
+    background: linear-gradient(to right, #d6336c, #eb984e);
+}
+
+.three {
+    background: linear-gradient(180deg, #d6336c, #eb984e, aqua);
+}
+
+.four {
+    background: linear-gradient(to top right, #d6336c, #eb984e, aqua);
 }
 
 
-.small-img {
-    background: url("./images/folder-img.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: scroll;
-    background-attachment: fixed;
+.five {
+    background: linear-gradient(#d6336c 20%, #eb984e 70%);
 }
 
-.folder-img {
-    background: url("./big.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
+.six {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9));
 }
