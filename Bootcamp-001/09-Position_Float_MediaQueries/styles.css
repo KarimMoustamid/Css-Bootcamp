@@ -1,53 +1,31 @@
-body {
-    background: #003566;
+img {
+    width: 150px;
+    height: 150px;
+    position: absolute;
 }
 
 .banner {
-    background : #d6336c;
+    margin: 20px auto;
+    width: 80vw;
+    height: 70vh;
+    border: 5px solid #099268;
+    position: relative;
 }
 
-h1 {
-    color: #fff;
-    text-align: center;
-    text-decoration: underline;
-    text-transform: capitalize;
+.one {
+    top: 0;
+    left: 0;
+    z-index: -3;
 }
 
-
-/*  min-width : Starting from */
-/*  max-width : up to */
-@media screen and (max-width: 576px)
-{
-    body {
-        background : #51cf66;
-    }
-    
-    h1 {
-        color: #000;
-    }
+.two {
+    top: 10%;
+    left: 10%;
+    z-index: 2;
 }
 
-/*@media screen and (min-width: 768px)*/
-/*{*/
-/*    body {*/
-/*        background : #eb984e;*/
-/*    }*/
-
-/*    h1 {*/
-/*        color: #7048e8;*/
-/*    }*/
-/*}*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.three {
+    top: 20%;
+    left: 20%;
+    z-index: 1;
+}
