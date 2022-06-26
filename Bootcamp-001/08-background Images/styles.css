@@ -1,27 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 div {
-    height : 300px;
-    color : #fff;
+    min-height: 100vh;
+    height: 300px;
+    color: #fff;
     border-top: 5px solid orangered;
+    font-size: 2rem;
+    text-transform: uppercase;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .big-img {
-    background : url("./big.jpeg");
+    background: url("./big.jpeg");
     background-repeat: no-repeat;
-    background-size : cover;
-    background-position : center;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
 .small-img {
-    background : url("./small.jpeg");
+    background: url("./images/folder-img.jpeg");
     background-repeat: no-repeat;
-    background-position : right;
-    background-position : 50% 50%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-attachment: fixed;
 }
 
 .folder-img {
-    background : url("./images/folder-img.jpeg");
+    background: url("./big.jpeg");
     background-repeat: no-repeat;
-    background-size : contain;
-    background-position : center;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
