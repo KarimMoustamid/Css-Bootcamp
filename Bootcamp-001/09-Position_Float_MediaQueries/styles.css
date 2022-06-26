@@ -1,31 +1,20 @@
-img {
-    width: 150px;
-    height: 150px;
-    position: absolute;
+p::before {
+    content: "";
+    width: 30px;
+    height: 30px;
+    border-radius : 50%;
+    display: block;
+    background: #7048e8;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #333;
 }
 
-.banner {
-    margin: 20px auto;
-    width: 80vw;
-    height: 70vh;
-    border: 5px solid #099268;
-    position: relative;
-}
-
-.one {
-    top: 0;
-    left: 0;
-    z-index: -3;
-}
-
-.two {
-    top: 10%;
-    left: 10%;
-    z-index: 2;
-}
-
-.three {
-    top: 20%;
-    left: 20%;
-    z-index: 1;
+p::after {
+    display: block;
+    background: #7048e8;
+    content: "After .";
+    font-weight: bold;
+    font-size: 2rem;
+    color: #333;
 }
