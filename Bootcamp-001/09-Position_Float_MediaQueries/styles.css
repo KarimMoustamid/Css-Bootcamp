@@ -7,9 +7,9 @@ div {
 .one {
     background : #1098ad;
     color: #fff;
-    position : relative;
-    bottom : 2rem;
-    right : 20px;
+    /*position : relative;*/
+    /*bottom : 2rem;*/
+    /*right : 20px;*/
 }
 
 .two {
@@ -21,4 +21,8 @@ div {
     background : #d6336c;
     font-size: 20px;
     color: #333;
+    
+    position : absolute;
+    top : 0;
+    left : 0;
 }
