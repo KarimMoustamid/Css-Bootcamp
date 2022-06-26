@@ -9,11 +9,12 @@ div {
     color : #fff;
     font-size : 1.5rem;
     text-transform : uppercase;
-    position : fixed;
+    position : sticky;
     margin-top: 0;
     top : 0;
     left : 0;
     width : 100%;
+    text-transform : uppercase;
 }
 
 .one {
@@ -33,4 +34,12 @@ div {
     background : #d6336c;
     font-size: 20px;
     color: #333;
+}
+
+
+.content {
+    background : #1098ad;
+    width : 80%;
+    margin: 0 auto;
+    height: 150vh;
 }
