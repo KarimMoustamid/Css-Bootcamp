@@ -1,18 +1,26 @@
 
-h1, p {
-    color: white;
+.links {
+    margin: 3rem;
 }
 
-h1 {
-    background: #d6336c;
-    padding: 10px;
-    border: 15px solid #000000;
+a {
+    background: #1ea461;
+    text-decoration: none;
+    padding: 1.2rem 1.5rem;
+    color: #000;
+    text-transform: uppercase;
+    margin: 0 20px;
 }
 
-p {
-    background: #5f3dc4;
-    padding: 25px;
-    border: 7px solid #1ea461;
-    border-radius: 50%;
-    margin-top: -10px;
+#one {
+    border: 0.2rem solid #222;
+}
+
+#two {
+    /*outline-width : 0.2rem;*/
+    /*outline-color: #222;*/
+    /*outline-style : solid;*/
+    /*outline-offset : 10px;*/
+    outline: 0.2rem solid #d6336c;
+    outline-offset: 10px;
 }
