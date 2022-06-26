@@ -1,11 +1,26 @@
-.block {
-    background:#645cff;
-    color:#fff;
-    /*display: inline;*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.inline {
-    background :#d6336c;
-    color:#fff;
-    /*display: block; */
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.navbar li {
+    list-style-type: none;
+}
+
+.navbar li a {
+   color: #099268;
+}
+
+ul a {
+   color: #d6336c; 
+    text-decoration: none;
+    letter-spacing: 2px;
+    background: #222; 
+    display: block;
+    padding: 5px;
 }
