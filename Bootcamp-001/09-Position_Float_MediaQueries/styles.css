@@ -1,31 +1,21 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 div {
-    height : 200px;
-    width: calc(100% / 4);
-    float: left;
+    border-top: 3px solid #d6336c;
+    background: #ffe70e;
+    margin-top: 40px;
 }
 
 .one {
-    background: #d6336c;
+    background : #1098ad;
+    color: #fff;
 }
 
 .two {
-    background: #eb984e;
+    background : #51cf66;
+    color: #fff;
 }
 
-.three {
-    background: #5f3dc4;
-}
-
-.four {
-   background: #099268;
-}
-
-h1 {
-    clear: both;
+.special {
+    background : #d6336c;
+    font-size: 20px;
+    color: #333;
 }
