@@ -1,0 +1,11 @@
+.block {
+    background:#645cff;
+    color:#fff;
+    /*display: inline;*/
+}
+
+.inline {
+    background :#d6336c;
+    color:#fff;
+    /*display: block; */
+}
