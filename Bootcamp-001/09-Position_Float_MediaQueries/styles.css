@@ -7,6 +7,9 @@ div {
 .one {
     background : #1098ad;
     color: #fff;
+    position : relative;
+    bottom : 2rem;
+    right : 20px;
 }
 
 .two {
