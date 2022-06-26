@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height : 200px;
+    width: calc(100% / 4);
+    float: left;
+}
+
+.one {
+    background: #d6336c;
+}
+
+.two {
+    background: #eb984e;
+}
+
+.three {
+    background: #5f3dc4;
+}
+
+.four {
+   background: #099268;
+}
+
+h1 {
+    clear: both;
+}
