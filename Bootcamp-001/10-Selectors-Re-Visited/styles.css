@@ -1,18 +1,8 @@
-div h1 {
-    color: #d6336c;
+p::first-line {
+    font-weight: bold;
 }
 
-div > h1 {
-    color: #7048e8;
-}
-
-.header h1 {
+p::first-letter {
     color: #099268;
+    font-size: 2rem;
 }
-
-
-
-.header > h1 {
-    color: #eb984e;
-}
-
