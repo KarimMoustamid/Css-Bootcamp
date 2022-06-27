@@ -1,18 +1,11 @@
-a {
-    display: block;
-    background-color: #7048e8;
-    margin: 10px;
-    color: #000;
-    font-weight: bold;
+:root {
+    font-size: 20px;
 }
 
-a:link {
-    color: #fff;
+.absolute {
+    font-size : 24px;
 }
 
-a:visited {
-    color: #d6336c;
+.relative {
+    font-size : 1.5rem;
 }
- a:active {
-     color: #1098ad;
- }
