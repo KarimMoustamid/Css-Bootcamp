@@ -11,9 +11,10 @@ div {
 
 .two {
     background: #099268;
-    transform: rotate(45deg);
+    transform: skewX(40deg);
 }
 
 .three {
     background: #7048e8;
+    transform: skewY(40deg);
 }
