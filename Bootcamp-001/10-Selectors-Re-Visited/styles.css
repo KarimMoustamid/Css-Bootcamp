@@ -2,16 +2,16 @@ div {
     width: 150px;
     height: 150px;
     display: inline-block;
+    margin-top: 2rem;
 }
 
 .one {
     background: #d6336c;
-    transform: scale(2);
 }
 
 .two {
     background: #099268;
-    transform : scaleY(2);
+    transform: rotate(45deg);
 }
 
 .three {
