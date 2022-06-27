@@ -1,8 +1,8 @@
-p::first-line {
-    font-weight: bold;
+div:hover {
+   color: #d6336c;
 }
 
-p::first-letter {
-    color: #099268;
-    font-size: 2rem;
+.header:hover {
+   font-size: 1.8rem;
+   background-color: #099268;
 }
