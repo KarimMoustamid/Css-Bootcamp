@@ -5,16 +5,21 @@ div {
     margin-top: 2rem;
 }
 
+div:hover {
+background: #003566;    
+}
+
+
 .one {
     background: #d6336c;
 }
 
 .two {
     background: #099268;
-    transform: skewX(40deg);
 }
 
 .three {
     background: #7048e8;
-    transform: skewY(40deg);
+    transition-property: background;
+    transition-duration: 500ms;
 }
