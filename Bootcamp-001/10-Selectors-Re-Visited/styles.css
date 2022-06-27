@@ -1,17 +1,18 @@
-* {
-  color: red;
+div h1 {
+    color: #d6336c;
 }
 
-#heading {
-  font-size: 40px;
-  text-transform: uppercase;
-  color: blue;
+div > h1 {
+    color: #7048e8;
 }
-.heading {
-  font-size: 20px;
-  text-transform: capitalize;
-  color: green;
+
+.header h1 {
+    color: #099268;
 }
-p {
-  letter-spacing: 5px;
+
+
+
+.header > h1 {
+    color: #eb984e;
 }
+
