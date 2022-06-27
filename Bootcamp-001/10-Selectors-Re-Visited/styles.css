@@ -6,15 +6,14 @@ div {
 
 .one {
     background: #d6336c;
-    transform: translateX(50%);
+    transform: scale(2);
 }
 
 .two {
     background: #099268;
-    transform: translateY(50%);
+    transform : scaleY(2);
 }
 
 .three {
     background: #7048e8;
-    transform: translate(50% , 50%);
 }
