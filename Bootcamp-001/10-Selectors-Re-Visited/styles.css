@@ -5,11 +5,6 @@ div {
     margin-top: 2rem;
 }
 
-div:hover {
-background: #003566;    
-}
-
-
 .one {
     background: #d6336c;
 }
@@ -20,10 +15,13 @@ background: #003566;
 
 .three {
     background: #7048e8;
-    transition-property: background , border-radius;
-    transition-duration: 500ms , 1s;
+    /*transition: background 1s 1s , border-radius .5s 1s;*/
+    transition: all 1s 1s;
 }
 
 .three:hover {
+    background: #099268;
     border-radius:50%;
+    
+    transform: scale(2);
 }
