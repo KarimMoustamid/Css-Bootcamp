@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dee0a9e0-0eed-401f-9edd-b61364d0c577" name="Changes" comment="transform:rotate()">
+      <change beforePath="$PROJECT_DIR$/Bootcamp-001/10-Selectors-Re-Visited/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Bootcamp-001/10-Selectors-Re-Visited/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B4hG7otUFUQDXUPlHXb3HIgNtO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Comments/Keywords"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee0a9e0-0eed-401f-9edd-b61364d0c577" name="Changes" comment="" />
+      <created>1656171178885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656171178885</updated>
+      <workItem from="1656171187645" duration="20721000" />
+      <workItem from="1656224815475" duration="165000" />
+      <workItem from="1656254305916" duration="27528000" />
+    </task>
+    <task id="LOCAL-00001" summary="Calc()">
+      <created>1656172736956</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656172736956</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Min-height, Max-height">
+      <created>1656173784838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656173784838</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Google Fonts">
+      <created>1656181306232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656181306232</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Font-weight &amp; Font-style">
+      <created>1656184329699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656184329699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="text-align">
+      <created>1656184645306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656184645306</updated>
+    </task>
+    <task id="LOCAL-00006" summary="More Text Properties">
+      <created>1656185877797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656185877797</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Padding">
+      <created>1656191106666</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656191106666</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Margin">
+      <created>1656191480818</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656191480818</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Borders">
+      <created>1656192842478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656192842478</updated>
+    </task>
+    <task id="LOCAL-00010" summary="border-radius">
+      <created>1656193163604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656193163604</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Outline">
+      <created>1656207881224</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656207881224</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Display Property">
+      <created>1656212223508</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656212223508</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Mobile Navbar">
+      <created>1656255563926</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656255563926</updated>
+    </task>
+    <task id="LOCAL-00014" summary="box-sizing">
+      <created>1656256506378</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656256506378</updated>
+    </task>
+    <task id="LOCAL-00015" summary="inline-block">
+      <created>1656256995190</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1656256995190</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Most common Display properties">
+      <created>1656259006178</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656259006178</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Bg img Basics">
+      <created>1656259724554</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656259724554</updated>
+    </task>
+    <task id="LOCAL-00018" summary="No-Repeat">
+      <created>1656260423976</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1656260423976</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Bg Positions">
+      <created>1656261134993</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656261134993</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Bg attachments">
+      <created>1656262475062</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656262475062</updated>
+    </task>
+    <task id="LOCAL-00021" summary="linear gradient">
+      <created>1656263530735</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1656263530735</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Bg Overlay">
+      <created>1656265234459</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656265234459</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Float">
+      <created>1656266971249</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656266971249</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Float Property Column Layout">
+      <created>1656268144281</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656268144281</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Position Static">
+      <created>1656268539869</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1656268539869</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Position relative">
+      <created>1656268793508</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1656268793508</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Position Absolute">
+      <created>1656275112525</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1656275112525</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Position Fixed">
+      <created>1656275448499</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1656275448499</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Position Sticky">
+      <created>1656276039008</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1656276039008</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Media Queries">
+      <created>1656277578369</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1656277578369</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Z-index">
+      <created>1656278983431</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1656278983431</updated>
+    </task>
+    <task id="LOCAL-00032" summary=":before , : after">
+      <created>1656279559145</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1656279559145</updated>
+    </task>
+    <task id="LOCAL-00033" summary="insert property">
+      <created>1656283273605</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1656283273605</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Basic Selectors">
+      <created>1656294749408</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1656294749408</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Descendent and child selectors">
+      <created>1656295278260</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1656295278260</updated>
+    </task>
+    <task id="LOCAL-00036" summary="First-line &amp; First-letter">
+      <created>1656295523291</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1656295523291</updated>
+    </task>
+    <task id="LOCAL-00037" summary=":hover">
+      <created>1656295886479</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1656295886479</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Link pseudo-class">
+      <created>1656296364195</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1656296364195</updated>
+    </task>
+    <task id="LOCAL-00039" summary=":root">
+      <created>1656296889831</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1656296889831</updated>
+    </task>
+    <task id="LOCAL-00040" summary="transform: translate()">
+      <created>1656298674974</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1656298674974</updated>
+    </task>
+    <task id="LOCAL-00041" summary="transform:scale()">
+      <created>1656299319845</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1656299319845</updated>
+    </task>
+    <task id="LOCAL-00042" summary="transform:rotate()">
+      <created>1656299717838</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1656299717838</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="No-Repeat" />
+    <MESSAGE value="Bg Positions" />
+    <MESSAGE value="Bg attachments" />
+    <MESSAGE value="linear gradient" />
+    <MESSAGE value="Bg Overlay" />
+    <MESSAGE value="Float" />
+    <MESSAGE value="Float Property Column Layout" />
+    <MESSAGE value="Position Static" />
+    <MESSAGE value="Position relative" />
+    <MESSAGE value="Position Absolute" />
+    <MESSAGE value="Position Fixed" />
+    <MESSAGE value="Position Sticky" />
+    <MESSAGE value="Media Queries" />
+    <MESSAGE value="Z-index" />
+    <MESSAGE value=":before , : after" />
+    <MESSAGE value="insert property" />
+    <MESSAGE value="Basic Selectors" />
+    <MESSAGE value="Descendent and child selectors" />
+    <MESSAGE value="First-line &amp; First-letter" />
+    <MESSAGE value=":hover" />
+    <MESSAGE value="Link pseudo-class" />
+    <MESSAGE value=":root" />
+    <MESSAGE value="transform: translate()" />
+    <MESSAGE value="transform:scale()" />
+    <MESSAGE value="transform:rotate()" />
+    <option name="LAST_COMMIT_MESSAGE" value="transform:rotate()" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

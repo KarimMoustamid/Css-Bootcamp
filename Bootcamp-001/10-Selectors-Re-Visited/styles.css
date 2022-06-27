@@ -20,6 +20,10 @@ background: #003566;
 
 .three {
     background: #7048e8;
-    transition-property: background;
-    transition-duration: 500ms;
+    transition-property: background , border-radius;
+    transition-duration: 500ms , 1s;
+}
+
+.three:hover {
+    border-radius:50%;
 }
