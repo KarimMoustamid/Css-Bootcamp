@@ -1,8 +1,18 @@
-div:hover {
-   color: #d6336c;
+a {
+    display: block;
+    background-color: #7048e8;
+    margin: 10px;
+    color: #000;
+    font-weight: bold;
 }
 
-.header:hover {
-   font-size: 1.8rem;
-   background-color: #099268;
+a:link {
+    color: #fff;
 }
+
+a:visited {
+    color: #d6336c;
+}
+ a:active {
+     color: #1098ad;
+ }
