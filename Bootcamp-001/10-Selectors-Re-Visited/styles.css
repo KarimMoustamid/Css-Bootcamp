@@ -3,44 +3,36 @@ div {
     height: 100px;
     color: #fff;
     margin: 10px;
+    opacity: 0;
 }
-
-.transition {
-    background : #d6336c;
-    transition: all 2s linear;
-}
-
-.transition:hover {
-    background : #7048e8;
-    transform: translateX(100px);
-} 
-
 
 .animation {
     background : #099268;
-    /*animation-name: move;*/
-    /*animation-duration: 10s;*/
-    /*animation-iteration-count: infinite;*/
-    animation : move 5s infinite;
+    animation : move 5s 2;
+    animation-fill-mode: forwards;
 }
 
 @keyframes move {
     0% {
-        transform: translateX(20px);
+        opacity : 0.1;
+    }
+    
+    25% {
+        transform : translateX(100px);
+        opacity : 0.25;
     }
     
     50% {
-        transform: translateX(100px);
-        background : #eb984e;
+        transform : translateX(-100px);
+        opacity : 0.5;
     }
     
     75% {
-        transform: translateX(-100px);
-        background : #eb984e;
+        opacity : 0.75;
     }
     
     100% {
-        transform: translateX(20px);
-        background : #bb2525;
+        transform : translateX(20px);
+        opacity : 1;
     }
 }
