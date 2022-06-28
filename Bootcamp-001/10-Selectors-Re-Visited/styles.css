@@ -1,27 +1,29 @@
 div {
     width: 150px;
     height: 150px;
-    display: inline-block;
-    margin-top: 2rem;
+    background: #1098ad;
+    font-size : 24px;
+    color: #000000;
+    margin: 5px;
+    transition: all 2s;
 }
 
-.one {
-    background: #d6336c;
+div:hover {
+    transform: translateX(100px);
 }
 
-.two {
-    background: #099268;
+.ease {
+    transition-timing-function: ease;
 }
-
-.three {
-    background: #7048e8;
-    /*transition: background 1s 1s , border-radius .5s 1s;*/
-    transition: all 1s 1s;
+.linear {
+    transition-timing-function: linear;
 }
-
-.three:hover {
-    background: #099268;
-    border-radius:50%;
-    
-    transform: scale(2);
+.ease-in {
+    transition-timing-function: ease-in;
+}
+.ease-out {
+    transition-timing-function: ease-out;
+}
+.ease-in-out {
+    transition-timing-function: ease-in-out;
 }
