@@ -1,48 +1,12 @@
-
-:root {
-    --primaryColor: #3f8efc;
-    --secondaryColor: #43aa8b;
-    --mainrTansition: all 2s linear;
-    --mainSpacing : 5px;
-}
-
 h1 {
-   color: var(--primaryColor); 
+    font-size: 8rem;
+    text-shadow: 2px 2px 6px #099268;
 }
 
-h2 {
-    color: var(--primaryColor);
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #099268;
+    margin: 20px;
+    box-shadow: 9px 19px 30px #888888;
 }
-
-h3 {
-    color: var(--primaryColor);
-   transition: var(--mainrTansition); 
-}
-
-p {
-    letter-spacing: var(--mainSpacing);
-}
-
-.main {
-    --primaryPurple : #7b2cbf;
-}
-
-.main-text {
-    color: var(--primaryPurple);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
